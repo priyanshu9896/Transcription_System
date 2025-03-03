@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+.DS_Store
+
+# Ignore large files and media
+media/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.dylib
+
+# Ignore logs and session files
+*.log
+processed_files.txt
+session_state.json
+
